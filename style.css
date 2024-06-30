@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.block{
+    margin: 1%;
+}
+
+.miniBlock{
+    width: 105px;
+    height: 105px;
+    border: solid 1px black;
+    margin: 1%;
+    display: none;
+}
+.integer{
+    padding: 1%;
+}
